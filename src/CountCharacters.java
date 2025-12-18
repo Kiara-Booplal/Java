@@ -6,8 +6,8 @@ public class CountCharacters {
         String line = input.nextLine();
         int count = 1;
         String result ="";
-        char letter = ' ';
         int i = 0;
+
 
         for( i=0; i < line.length()-1; i++){
             if(String.valueOf(line.charAt(i+1)).equals(String.valueOf(line.charAt(i)))){
