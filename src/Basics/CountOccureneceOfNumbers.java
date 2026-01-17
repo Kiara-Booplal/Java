@@ -1,3 +1,5 @@
+package Basics;
+
 public class CountOccureneceOfNumbers {
     public static void main(String[] args){
         int [] array = {1,3,1,6,7,7,7};

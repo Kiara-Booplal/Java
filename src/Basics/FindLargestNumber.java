@@ -1,3 +1,5 @@
+package Basics;
+
 public class FindLargestNumber {
     public static void main(String [] args){
         int[] array = {5,2006,6,9,90,596,1};

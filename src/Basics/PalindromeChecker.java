@@ -1,3 +1,5 @@
+package Basics;
+
 import java.util.*;
 public class PalindromeChecker {
     public static void main(String[] args) {
